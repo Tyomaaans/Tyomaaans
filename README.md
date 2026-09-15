@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Visitor Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?Tyomaaans=johndoe&style=flat-square&color=2f81f7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tyomaaans&style=flat-square&color=2f81f7&label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br />
   <br />
