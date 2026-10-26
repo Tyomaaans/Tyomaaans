@@ -1,9 +1,9 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=tyomaaans&style=flat-square&color=00ADD8&label=PROFILE+VIEWS" alt="Profile Views" />
+
 <h1>Hi, I'm Tyomaaans</h1>
 <p><strong>Backend Developer · Go · APIs · Business Workflows</strong></p>
-
-<img src="https://komarev.com/ghpvc/?username=tyomaaans&style=flat-square&color=00ADD8&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <p>
   <a href="https://tyomaaans.cloud"><img src="https://img.shields.io/badge/Portfolio-00ADD8?style=for-the-badge" alt="Portfolio" /></a>
