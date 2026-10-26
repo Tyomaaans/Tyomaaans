@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Tyomaaans 👋</h1>
+  <h1>Hi, I'm Tyomaaans</h1>
   <p><strong>Backend development · Go · APIs · Business workflows</strong></p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=tyomaaans&style=flat-square&color=00ADD8&label=PROFILE+VIEWS" alt="Profile Views" />
